@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126.25,
+              2.25,
+              0
+            ],
+            [
+              126.25,
+              3,
+              0
+            ],
+            [
+              127.6,
+              3,
+              0
+            ],
+            [
+              127.4,
+              2.35,
+              0
+            ],
+            [
+              126.85,
+              0.5,
+              0
+            ],
+            [
+              125.1,
+              0.5,
+              0
+            ],
+            [
+              125.6,
+              1.25,
+              0
+            ],
+            [
+              126.25,
+              2.25,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "N.11",
+        "description": "Laut Maluku bagian utara"
+      }
+    }
+  ]
+}
